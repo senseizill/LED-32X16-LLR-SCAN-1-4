@@ -4,7 +4,7 @@ Hello everyone, dự án của tôi muốn làm là 1 bản LED RGB với số c
 1. giới thiệu về phần cứng tôi sử dụng.
 2. giới thiệu về các thư viện áp dụng trong dự án.
 3. các bước thực hiện.
-4. [các bài test](## Các bước thực hiện dự án LED 32X16.)
+4. [các bài test](#các-bước-thực-hiện-dự-án-led-32x16)
 
 
 ## Các bước thực hiện dự án LED 32X16.
