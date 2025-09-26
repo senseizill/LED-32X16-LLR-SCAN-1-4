@@ -7,7 +7,7 @@ Hello everyone, dự án của tôi muốn làm là 1 bản LED RGB với số c
 3. [Các bước thực hiện.](#các-bước-thục-hiện-dự-án-led-32x16)
 4. [Các bài test.]
 ## Giới thiệu về phần cứng.
-<span style="color:red">Chú ý:</span>
+⚠️Chú ý:
 
 ## Các bước thực hiện dự án LED 32X16.
 ### 1. Lựa chọn cấu hình màng hình led mong muốn (ví dụ như 32x16 mà tôi sử dụng).
